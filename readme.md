@@ -32,8 +32,3 @@ The project embraces a comprehensive approach, starting with exploratory data an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Contributors: Carl Moritz Antonius Müller, Oskar Albert Ribbe, Beat Florian Weichsler, Natalie Schlachter, Niklas Ruge.
-- Data Sources: (To be filled in based on notebook details or provided by project contributors.)
